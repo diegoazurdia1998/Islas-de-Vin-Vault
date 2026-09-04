@@ -1,0 +1,26 @@
+{
+  "defaultFlags": "g",
+  "historyLimit": 10,
+  "showPreview": true,
+  "recentPatterns": [
+    {
+      "search": "\\[cite: 2\\]",
+      "replace": "",
+      "flags": "g",
+      "timestamp": 1783044467544
+    },
+    {
+      "search": "\\[cite: 1\\]",
+      "replace": "",
+      "flags": "g",
+      "timestamp": 1783044425263
+    },
+    {
+      "search": "\\[cite: \\d*\\]",
+      "replace": "",
+      "flags": "g",
+      "timestamp": 1782948549998
+    }
+  ],
+  "ruleSets": []
+}

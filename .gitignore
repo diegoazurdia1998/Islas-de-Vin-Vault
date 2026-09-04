@@ -1,0 +1,14 @@
+# Basura del sistema
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Basura de Obsidian
+.trash/
+
+# Estado local del workspace de Obsidian
+.obsidian/workspace.json
+.obsidian/workspaces.json
+
+# Logs/cache temporales de plugins
+*.log

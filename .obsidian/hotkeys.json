@@ -1,0 +1,11 @@
+{
+  "regex-replace:open-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:open-search-replace": []
+}

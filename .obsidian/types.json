@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Mentes": "multitext",
+    "date": "date",
+    "Ventaja": "checkbox",
+    "Desventaja": "checkbox"
+  }
+}
