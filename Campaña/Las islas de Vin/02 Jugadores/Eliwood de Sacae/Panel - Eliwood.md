@@ -1,26 +1,24 @@
 ---
-Nombre: Diego
+Nombre: "[[Hoja de Personaje - Eliwood de Sacae|Eliwood]]"
 Nivel: 2
 Bono-Competencia: 2
-STR: 10
-DEX: 14
-CON: 12
-INT: 10
-WIS: 13
-CHA: 15
+STR: 12
+DEX: 7
+CON: 9
+INT: 17
+WIS: 14
+CHA: 12
 Salvacion-STR: false
-Salvacion-DEX: true
+Salvacion-DEX: false
 Salvacion-CON: false
-Salvacion-INT: false
-Salvacion-WIS: false
+Salvacion-INT: true
+Salvacion-WIS: true
 Salvacion-CHA: true
-Ventaja:
-Desventaja:
 ---
 
 ---
 
-## 🌐Atributos de <% tp.frontmatter["Nombre"] %>
+## 🌐Atributos de Eliwood
 
 ```dataviewjs
 // 1. Obtener los datos de la nota actual

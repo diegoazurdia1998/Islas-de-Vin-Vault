@@ -1,26 +1,24 @@
 ---
-Nombre: Diego
+Nombre: "[[Hoja de Personaje - Aldric de Loras|Aldric]]"
 Nivel: 2
 Bono-Competencia: 2
-STR: 10
-DEX: 14
-CON: 12
-INT: 10
-WIS: 13
-CHA: 15
+STR: 12
+DEX: 7
+CON: 18
+INT: 9
+WIS: 10
+CHA: 13
+AC: "15"
 Salvacion-STR: false
-Salvacion-DEX: true
+Salvacion-DEX: false
 Salvacion-CON: false
 Salvacion-INT: false
-Salvacion-WIS: false
+Salvacion-WIS: true
 Salvacion-CHA: true
-Ventaja:
-Desventaja:
+---
 ---
 
----
-
-## 🌐Atributos de <% tp.frontmatter["Nombre"] %>
+## 🌐Atributos de Aldric
 
 ```dataviewjs
 // 1. Obtener los datos de la nota actual
@@ -209,6 +207,7 @@ if (metales.length > 0) {
 ```
 
 ---
+
 ```dataviewjs
 // 1. Obtener la carpeta del personaje actual
 const folderActual = dv.current().file.folder;

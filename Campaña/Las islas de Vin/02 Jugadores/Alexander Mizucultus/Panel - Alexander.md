@@ -1,26 +1,24 @@
 ---
-Nombre: Diego
+Nombre: "[[Hoja de Personaje - Alexander Mizucultus|Alexander]]"
 Nivel: 2
 Bono-Competencia: 2
 STR: 10
-DEX: 14
+DEX: 13
 CON: 12
-INT: 10
-WIS: 13
-CHA: 15
+INT: 17
+WIS: 16
+CHA: 5
 Salvacion-STR: false
-Salvacion-DEX: true
+Salvacion-DEX: false
 Salvacion-CON: false
-Salvacion-INT: false
-Salvacion-WIS: false
-Salvacion-CHA: true
-Ventaja:
-Desventaja:
+Salvacion-INT: true
+Salvacion-WIS: true
+Salvacion-CHA: false
 ---
 
 ---
 
-## 🌐Atributos de <% tp.frontmatter["Nombre"] %>
+## 🌐Atributos de Alexander
 
 ```dataviewjs
 // 1. Obtener los datos de la nota actual

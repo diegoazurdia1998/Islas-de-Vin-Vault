@@ -15,6 +15,7 @@ ControlledBy: Aquanautas / Piratas
 
 ## ⚓ Descripción
 Un puerto costero de renombre internacional dentro de la [[Isla Dock]]. Es infame por servir históricamente de base operativa y refugio para agrupaciones de piratas, contrabandistas y maleantes.
+Recibió su nombre por la tienda de sombreros de [[Wayne]] porque ya estaba ahí cuando hicieron el astillero.
 
 ## 👥 Demografía
 *   Es el entorno costero principal habitado por los [[Aquanauta|Aquanautas]].

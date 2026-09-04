@@ -1,26 +1,27 @@
 ---
-Nombre: Diego
+Nombre: Felinor
 Nivel: 2
 Bono-Competencia: 2
-STR: 10
-DEX: 14
-CON: 12
-INT: 10
-WIS: 13
+STR: 15
+DEX: 16
+CON: 15
+INT: 11
+WIS: 9
 CHA: 15
-Salvacion-STR: false
+AC: "15"
+Salvacion-STR: true
 Salvacion-DEX: true
 Salvacion-CON: false
 Salvacion-INT: false
 Salvacion-WIS: false
-Salvacion-CHA: true
-Ventaja:
+Salvacion-CHA: false
+Ventaja: false
 Desventaja:
 ---
 
 ---
 
-## 🌐Atributos de <% tp.frontmatter["Nombre"] %>
+## 🌐Atributos de Felinor
 
 ```dataviewjs
 // 1. Obtener los datos de la nota actual

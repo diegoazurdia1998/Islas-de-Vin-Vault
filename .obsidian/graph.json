@@ -8,52 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Campaña/Las islas de Vin/Jugadores\"  ",
+      "query": "path:\"Campaña/Las islas de Vin/01 Objetos\"  ",
       "color": {
         "a": 1,
-        "rgb": 16762880
+        "rgb": 14701138
       }
     },
     {
-      "query": "path:\"Campaña/Lore/05_Sistemas de Magia y Leyes\"  ",
+      "query": "path:\"Campaña/Las islas de Vin/02 Jugadores\"  ",
       "color": {
         "a": 1,
-        "rgb": 15271687
-      }
-    },
-    {
-      "query": "path:\"Campaña/Lore/01_Geografia y lugares\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 7356672
-      }
-    },
-    {
-      "query": "path:\"Campaña/Lore/03_Facciones y Organizaciones\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5332815
-      }
-    },
-    {
-      "query": "path:\"Campaña/Lore/04_Cosmología y Religión\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16734464
-      }
-    },
-    {
-      "query": "path:\"Campaña/Las islas de Vin/Clases personalizadas\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711756
-      }
-    },
-    {
-      "query": "path:\"Campaña/Lore/06_Flora, Fauna y Recursos\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11206400
+        "rgb": 14725458
       }
     }
   ],
@@ -67,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.11660891579457262,
-  "close": false
+  "scale": 0.16348370567220397,
+  "close": true
 }

@@ -6,6 +6,7 @@
     "Mentes": "multitext",
     "date": "date",
     "Ventaja": "checkbox",
-    "Desventaja": "checkbox"
+    "Desventaja": "checkbox",
+    "Peso": "number"
   }
 }
