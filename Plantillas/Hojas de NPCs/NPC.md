@@ -1,43 +1,40 @@
 ---
 type: NPC
 npc_status: Vivo
-race: Humano
-class: Paladín Alomante Feruquimista
-faction: Sombrerería de Wayne
-location: "[[Astillero de Wayne]]"
-relationship: Amigable
+race: ""
+class: ""
+faction: ""
+location: "[[Ciudad Principal]]"
+relationship: Neutral
 tags:
   - npc
 ---
 
-#  NPC - [[Wayne]]
+#  NPC - [[Nombre del Personaje]]
 
 > [!abstract]- **Ficha Rápida (El "Elevator Pitch")**
-> Nadie sabe de donde vino pero esta en el Astillero de Wayne desde antes que fuera un astillero. Le hace mucha falta aquel sombrero que perdió en un juego de piedra papel o tijera conta un [[Medrano]] sin pierna izquierda y con dos muñones por manos. En fin la tienda de sombreros inició como un intento, aun fallido, por recuperar ese sombrero y luego vino el astillero. pero no el sombrero.
+> *"Un [raza] de [edad] años que se dedica a [profesión]. Se le reconoce por [rasgo físico único] y suele hablar con [tono/voz]."*
 
 ---
 
 ## 🧬 1. Identidad y Apariencia
 
-- **Nombre completo:** Wayne
-- **También conocido como:** El del sombrero / Maestro del intercambio
-- **Edad:** Adulto (30s-40s)
-- **Género / Pronombres:** Masculino (él)
-- **Raza / Especie:** Humano
-- **Oficio / Clase (si tiene):** Sombrerero, estafador, y ocasional salvador del mundo
-- **Facciones / Lealtades:** Fiel a quienes respetan sus reglas de intercambio y a sus amigos cercanos
+- **Nombre completo:** 
+- **También conocido como:** (Alias, títulos o apodos)
+- **Edad:** (Joven / Adulto / Viejo / Inmortal)
+- **Género / Pronombres:** 
+- **Raza / Especie:** 
+- **Oficio / Clase (si tiene):** 
+- **Facciones / Lealtades:** 
 
 ### Rasgos físicos destacados
-- **Cabello:** Castaño claro, siempre despeinado
-- **Ojos:** Marrones vivaces, con brillo travieso
-- **Marca / Cicatriz / Tatuaje:** Cicatrices pequeñas en manos por peleas pasadas
-- **Vestimenta típica:** Sombreros variados (según el humor), chaqueta gastada, botas viejas pero cómodas
+- **Cabello:** 
+- **Ojos:** 
+- **Marca / Cicatriz / Tatuaje:** 
+- **Vestimenta típica:** 
 
 ### Personalidad y Voz
-- **Rasgos de personalidad (2-3):** 
-	- Siempre hace chistes malos y se ríe solo
-	- Cambia de acento y voz constantemente para “interpretar papeles”
-	- Tiene una lógica propia para los intercambios (ejemplo: un sombrero vale más que una espada)
+- **Rasgos de personalidad (2-3):** (Ej: *Siempre se ríe de sus propios chistes malos* / *Nunca mira a los ojos al hablar*)
 - **Ideales:** (¿Qué cree firmemente?)
 - **Vínculos (Bonds):** (¿Quién o qué es lo más importante para él/ella?)
 - **Defectos (Flaws):** (¿Cuál es su talón de Aquiles?)

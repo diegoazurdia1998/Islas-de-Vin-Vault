@@ -63,17 +63,17 @@ si falta la siguiente -9 hp
 - Animal Handling (WIS): +0
 - Arcana (INT): -1
 - [x] Athletics (STR): +3 *(Competente)*
-- [x] Deception (CHA): +3 *(Competente)*
+-  Deception (CHA): +3 
 - History (INT): -1
 - Insight (WIS): +0
 - [x] Intimidation (CHA): +3 *(Competente)*
 - Investigation (INT): -1
-- Medicine (WIS): +0
+- [x] Medicine (WIS): +2 *(Competente)*
 - Nature (WIS): +0
 - Perception (WIS): +0
 - Performance (CHA): +1
 - Persuasion (CHA): +1
-- Religion (INT): -1
+- [x] Religion (INT): +1 *(Competente)*
 - Sleight of Hand (DEX): -2
 - Stealth (DEX): -2
 - Survival (WIS): +0
@@ -159,3 +159,7 @@ si falta la siguiente -9 hp
 **Trasfondo (Backstory):**
 Es de un pueblo que tuvo un gran problema y quedó envuelto en la deshonra. Siendo el último paladín, busca levantar de nuevo su nombre y el de su pueblo. 
 Durante sus años iniciales siguiendo a la forja eterna inició con las apuestas y no pudo dejarlas nunca.
+
+Perdió su escudo y muchas oportunidades y termino queriendo ser boticario
+
+Busca una razón para pegarle a un dragón

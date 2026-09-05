@@ -107,8 +107,8 @@ Desventaja:
 - **Bono de Ataque de Hechizos:** +3 (+5 para conjuros de dote)
 
 #### Trucos (Cantrips / At Will)
-- [x] *Fire Bolt:* 1 Acción | 120 ft. | V, S | Instantáneo.
-- [x] *True Strike:* 1 Acción | Propio | S, M | Instantáneo.
+- [ ] *Fire Bolt:* 1 Acción | 120 ft. | V, S | Instantáneo.
+- [ ] *True Strike:* 1 Acción | Propio | S, M | Instantáneo.
 
 #### Hechizos de Nivel 1
 - **Pact Slots Totales:** 1 | **Slots Disponibles:** `O`
@@ -148,10 +148,15 @@ Desventaja:
 - **Flaws:** Poca motricidad fina, Desconfiado por naturaleza, Codicioso.
 
 ### Notas e Historia del Personaje
-- **Género:** Hombre | **Edad:** 20 años | **Fe:** La Fe de las Eras
-- **Apariencia:** Tamaño mediano (Medium), Altura: 1.75 m, Peso: 60 kg. Piel blanca, ojos magenta y cabello magenta.
-- **Aliados y Organizaciones:** Mercenarios, Mercaderes, Luisito el Comunicador (Jefe del Astillero). Gremio menor de mercenarios del Astillero de Wayne.
+- **Género:** Hombre 
+- **Edad:** 20 años 
+- **Fe:** La Fe de las Eras
+- **Apariencia:** Tamaño mediano (Medium), 
+- Altura: 1.75 m, 
+- Peso: 60 kg. Piel blanca, ojos magenta y cabello magenta.
+- **Aliados y Organizaciones:** Mercenarios, Mercaderes, Luisito el Comunicador (Jefe del Astillero). Gremio de mercenarios del Astillero de Wayne.
 
 **Trasfondo (Backstory):**
 Es de una aldea del bosque de contención, miembro de la tribu de Kutolah, dedicados a la caza y a la familia. Tienen comercio con la ciudad de oro, lo cual hace que los hombres de su aldea se entrenen y se vuelvan mercenarios, ayudando a defender de los piratas y de los monstruos marinos. 
 Hoy en día el nivel de los enemigos es muy alto y se requiere más nivel para entrar a La Orden del Tridente. Busca mejoras en su nivel propio para entrar a la orden.
+

@@ -164,8 +164,56 @@ Felinor:
 
 
 ### Objetos/Recompensas preparadas
-- 
-- 
+> [!info]- Tabla Consolidada de Recompensas por Jugador
+> 
+> |Jugador|Misión|Opción/Resultado|Objetos/Recompensas|XP|
+> |---|---|---|---|---|
+> |**Alexander**|"El Velo de Cobre"|**Opción A (Rescate exitoso)**|- **Púa de Cobre** (descubre que su bufanda ya tiene una, ahora tiene 2).  <br>- **Relicario de Investidura** (ver líneas espectrales 1/día).  <br>- Gratitud del Clan Medrano.|+2 XP|
+> |||**Opción B (Fracaso/Combate)**|- **Púa de Cobre** (la obtiene del Aquanauta).  <br>- **No descubre** que su bufanda es una púa.  <br>- Niño Medrano herido (consecuencia).|+1 XP|
+> |**Aldric**|"El Último Empujón"|**Opción A (Se queda con la Coneja)**|- **Púa de Cobre** (entregada por Rizos en su lecho de muerte).  <br>- **El recuerdo** (objeto narrativo del sacrificio).|+3 XP|
+> |||**Opción B (Acompaña a otro)**|- Recompensa pasiva: **+1.5 XP**.  <br>- Obtiene el botín de la misión del compañero.|+1.5 XP|
+> |**Eliwood**|"La Prueba de la Perla"|**Opción A (Pacífica - Zinc/Latón)**|- **25 Monedas de Aluminio** (+25 respeto).  <br>- **Gema de atium pequeña**.  <br>- Mapa del tesoro parcial.|+2 XP|
+> |||**Opción B (Violenta - Gana)**|- **15 Monedas de Aluminio** (+15 respeto).  <br>- **Gema de atium pequeña**.|+2 XP|
+> |||**Opción C (Fracaso/Pierde)**|- **-10 Monedas de Aluminio** (-10 respeto).  <br>- Sin objetos.|+1 XP|
+> |**Felinor**|"La Canción de la Ballena"|**Opción A (Ballena)**|- **Habilidad "Canto de la Ballena"** (1/día).  <br>- **El Corvo se sincroniza** (revela mapa/profecía).|+2 XP|
+> |||**Opción B (Sion y Victor)**|- **Objeto de sus padres** (colgante/diario/llave).  <br>- **Mapa o carta** con pista de su linaje.|+2 XP|
+
+---
+
+#### 🧙‍♂️ Detalle de Objetos: **Alexander**
+
+- **Púa Hemalúrgica de Cobre**: Material raro. Puede estudiarla para entender el libro de Fantasma.
+    
+- **Relicario de Investidura**: Objeto mágico. Le permite ver **líneas espectrales azules** 1 vez al día como acción bonus durante 1 minuto.
+    
+- **Gratitud del Clan Medrano**: Reputación. Los gatos humanoides lo verán como un amigo y le darán información/refugio.
+    
+
+#### 🛡️ Detalle de Objetos: **Aldric**
+
+- **Púa Hemalúrgica de Cobre**: Material raro. Se la puede dar a Alexander o usarla como objeto ritual.
+    
+- **El recuerdo de Rizos**: Narrativo. La coneja lo salvó. Aldric siente que sus puas vibran ante el peligro (señal de alerta narrativa).
+    
+
+#### 🔥 Detalle de Objetos: **Eliwood**
+
+- **Monedas de Aluminio**: Moneda del Gremio. +25/+15 de respeto. Con más monedas, más influencia.
+    
+- **Gema de atium pequeña**: Material raro. Puede potenciar su magia 1 vez (o alimentar a Lio Ra).
+    
+- **Mapa del tesoro parcial** (opcional): Fragmento de un mapa hacia el norte del archipiélago.
+    
+
+#### 🏹 Detalle de Objetos: **Felinor**
+
+- **Canto de la Ballena**: Habilidad. 1/día, comunicarse con criaturas marinas durante 1 hora (entendimiento emocional).
+    
+- **Sincronización de El Corvo**: Mejora de arma. Los símbolos tallados se iluminan formando un mapa secreto. Puede seguir pistas del arco.
+    
+- **Objeto de sus padres** (Opción B): Reliquia (colgante, diario o llave). Conexión emocional y pista para su próxima misión.
+    
+- **Mapa/Carta de Sion y Victor**: Pista. Le indica un lugar exacto sobre su linaje.
 
 ---
 
@@ -211,3 +259,7 @@ Turno 5
 
 ### Preparación para la próxima sesión
 
+Eliwood tiene 2 piezas de corvo. pechera y un proteje huevos
+Pociones
+Materiales de crafteo
+Recetas

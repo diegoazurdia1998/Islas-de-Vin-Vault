@@ -21,53 +21,32 @@ Size: Mediano/Pequeño
 
 ---
 
-## 1. 🦈 Tiburón de Arrecife Enloquecido (Minion)
+### 1. 🦈 Tiburón de Arrecife Enloquecido
 
-| **Atributo**  | **Valor**    |
-| ------------- | ------------ |
-| **Tipo**      | Bestia       |
-| **CA**        | 12           |
-| **PG**        | 15           |
-| **Velocidad** | Nado 40 pies |
-
-|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
-|---|---|---|---|---|---|
-|**14 (+2)**|**13 (+1)**|**11 (+0)**|**1 (-5)**|**10 (+0)**|**4 (-3)**|
-
-**Mordisco de Sangre.** +4 al impacto, 5 pies. *Daño:* 5 perforante fijo. Ventaja si el objetivo no tiene PG al máximo.
+| **Nivel**              | **Tipo** | **CA** | **PG** | **Velocidad** | **Ataque**                                                                                    | **Habilidad Especial**                                                                                                                    |
+| ---------------------- | -------- | ------ | ------ | ------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nivel 1 (Minion)**   | Bestia   | 12     | **1**  | Nado 40 pies  | **Mordisco de Sangre.** +4, 5 pies. Daño fijo: **4** perforante.                              | Ventaja si el objetivo no tiene PG al máximo.                                                                                             |
+| **Nivel 3 (Estándar)** | Bestia   | 13     | **22** | Nado 40 pies  | **Mordisco.** +5, 5 pies. Daño: **2d6+2** perforante.                                         | Ventaja si el objetivo no tiene PG al máximo.                                                                                             |
+| **Nivel 5 (Jefe)**     | Bestia   | 15     | **45** | Nado 50 pies  | **Ataque múltiple.** Realiza dos ataques de Mordisco. +6, 5 pies. Daño: **2d8+4** perforante. | **Frenesí de sangre.** Si el objetivo está por debajo de la mitad de sus PG, el tiburón tiene ventaja en sus tiradas de ataque contra él. |
 
 ---
 
-## 2. ⚓ Arponero Hundido (Minion)
+### 2. ⚓ Arponero Hundido
 
-|**Atributo**|**Valor**|
-|---|---|
-|**Tipo**|No-muerto|
-|**CA**|11|
-|**PG**|1|
-|**Velocidad**|20 pies, Nado 20 pies|
-|**Inmunidades**|Veneno, Envenenado|
-
-|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
-|---|---|---|---|---|---|
-|**13 (+1)**|**8 (-1)**|**15 (+2)**|**5 (-3)**|**8 (-1)**|**5 (-3)**|
-
-**Garfio Oxidado.** +3 al impacto, 5 pies. *Daño:* 4 perforante fijo. Acierto: salvación Fuerza CD 11 o queda agarrado.
+|**Nivel**|**Tipo**|**CA**|**PG**|**Velocidad**|**Ataque**|**Habilidad Especial**|
+|---|---|---|---|---|---|---|
+|**Nivel 1 (Minion)**|No-muerto|11|**1**|20 pies, Nado 20 pies|**Garfio Oxidado.** +3, 5 pies. Daño fijo: **4** perforante.|Acierto: Salvación Fuerza CD 11 o queda agarrado.|
+|**Nivel 3 (Estándar)**|No-muerto|13|**18**|20 pies, Nado 30 pies|**Garfio Oxidado.** +4, 5 pies. Daño: **1d8+2** perforante.|**Arpón a distancia.** +4, 20/60 pies. Daño: **1d6+2** perforante. Acierto: Salvación Fuerza CD 13 o queda agarrado.|
+|**Nivel 5 (Jefe)**|No-muerto|15|**38**|20 pies, Nado 40 pies|**Ataque múltiple.** Realiza un ataque con Garfio y un ataque con Arpón. +6, 5 pies (Garfio) y +6, 20/60 pies (Arpón). Daño: **2d8+3** (Garfio) y **1d8+3** (Arpón).|**Tirón de cadena.** Si tiene un objetivo agarrado, puede arrastrarlo 15 pies hacia sí mismo como acción bonus. **Inmunidad a Veneno.**|
 
 ---
 
-## 3. 🦎 Guardián Escamoso (Sahuagin Joven) (Minion)
+### 3. 🦎 Guardián Escamoso (Sahuagin Joven)
 
-|**Atributo**|**Valor**|
-|---|---|
-|**Tipo**|Humanoide (Sahuagin)|
-|**CA**|13|
-|**PG**|1|
-|**Velocidad**|30 pies, Nado 40 pies|
-|**Sentidos**|Visión oscura 120 pies|
+|**Nivel**|**Tipo**|**CA**|**PG**|**Velocidad**|**Ataque**|**Habilidad Especial**|
+|---|---|---|---|---|---|---|
+|**Nivel 1 (Minion)**|Humanoide|13|**1**|30 pies, Nado 40 pies|**Lanza de Coral.** +4, 5 pies o 20/60 pies. Daño fijo: **5** perforante.|Visión oscura 120 pies.|
+|**Nivel 3 (Estándar)**|Humanoide|14|**25**|30 pies, Nado 40 pies|**Lanza de Coral.** +5, 5 pies o 20/60 pies. Daño: **1d8+3** perforante.|**Visión oscura** 120 pies.|
+|**Nivel 5 (Jefe)**|Humanoide|16|**50**|30 pies, Nado 50 pies|**Ataque múltiple.** Realiza dos ataques con Lanza de Coral. +6, 5 pies o 20/60 pies. Daño: **1d10+4** perforante.|**Frenesí de sangre.** Cuando el Sahuagin está por debajo de la mitad de sus PG, gana ventaja en sus tiradas de ataque. **Inmunidad a miedo.**|
 
-|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
-|---|---|---|---|---|---|
-|**14 (+2)**|**14 (+2)**|**12 (+1)**|**10 (+0)**|**11 (+0)**|**8 (-1)**|
-
-**Lanza de Coral.** +4 al impacto, 5 pies o 20/60 pies. *Daño:* 5 perforante fijo.
+---
