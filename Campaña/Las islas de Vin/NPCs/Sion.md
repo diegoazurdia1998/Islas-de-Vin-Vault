@@ -1,0 +1,1 @@
+Golem con piezas de diferentes pieles unidas con metales. Creado por [[Victor]]
